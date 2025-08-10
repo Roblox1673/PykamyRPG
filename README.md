@@ -1,0 +1,2 @@
+# PykamyRPG
+Dla kolegi
